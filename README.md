@@ -14,16 +14,12 @@ To understand each topic, we will learn some basics in deep learning, such as va
 This is an introductory class for general topics in AI and deep learning, and we encourage the students who want to learn more on each specific topic to take the advanced courses (e.g. CS484, CS494, CS576). 
 
 ## Instructor
-Prof. Seunghoon Hong
-magalat33@gmail.com
+Prof. Seunghoon Hong: magalat33@gmail.com<br>
 E3-1, Room 3429
 
 ## Teaching Assistant
-Jaehoon Yoo
-wogns98@kaist.ac.kr<br>
-
-Jinwoo Kim
-bugkjw@gmail.com
+Jaehoon Yoo: wogns98@kaist.ac.kr<br>
+Jinwoo Kim: bugkjw@gmail.com
 
 ## Textbook
 Ian Goodfellow, Yoshua Bengio, Aron Courville, Deep Learning, MIT Press (Electronic copy)
